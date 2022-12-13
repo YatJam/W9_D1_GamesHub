@@ -5,7 +5,7 @@ Homework: Full Stack Games Hub App
 Task
 Draw a diagram showing the dataflow through the application starting with a form submission, ending with the re-rendering of the page. This will involve a multi-direction data-flow with the client posting data to the server and the server sending data back to the client with the response. Detail the client, server and database in the diagram and include the names of the files involved in the process.
 
-![Getting Started](/W9_D1_GamesHub/data_flow.png)
+![Getting Started](data_flow.png)
 
 
 Questions:
@@ -50,5 +50,5 @@ E1a) This is because MongoDB uses object ids (_id) as its method for identifying
 
 Add to your diagram the dataflow for removing a game.
 
-![Getting Started](/W9_D1_GamesHub/data_flow_extension.png)
+![Getting Started](data_flow_extension.png)
 
